@@ -7,3 +7,4 @@ playwright
 html2text
 tiktoken
 faiss-cpu
+pypdf
