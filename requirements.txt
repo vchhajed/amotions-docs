@@ -2,7 +2,7 @@ streamlit
 beautifulsoup4
 requests
 langchain 
-openai
+openai==v0.28.1
 playwright
 html2text
 tiktoken
